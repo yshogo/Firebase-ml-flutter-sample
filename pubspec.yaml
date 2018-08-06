@@ -1,0 +1,19 @@
+name: flutter_ml_ki_sample
+description: A new Flutter application.
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  path_provider: 0.3.0
+  mlkit: ^0.2.2
+  image_picker: ^0.4.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
